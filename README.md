@@ -19,7 +19,7 @@ Features
 - Display energy consumption data by energy type, state, and year
 - Dynamic data presentation using Chart.js
 - Easy navigation between energy types, states, and years
-- Responsive design for better user experience on different devices
+- Foundation framework for responsive design to provide better user experience on different devices
 - SQLite3 database for efficient data storage and retrieval
 
 Requirements
