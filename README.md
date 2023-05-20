@@ -3,7 +3,7 @@
 Energy Consumption Data
 =======================
 
-Energy Consumption Data is a web application that displays energy consumption data for the United States. It provides detailed information on the consumption of various energy sources such as Coal, Geothermal, Natural Gas, Other Gases, and Petroleum. The application is built using HTML, CSS, Foundation CSS, JavaScript, Node.js, Chart.js, Express, and SQLite3 and allows users to explore energy consumption data by energy type, state, and year.
+Energy Consumption Data is a web application that displays energy consumption data for the United States. It provides detailed information on the consumption of various energy sources such as Coal, Geothermal, Natural Gas, Other Gases, and Petroleum. The application is built using HTML, CSS, Foundation, JavaScript, Node.js, Chart.js, Express, and SQLite3 and allows users to explore energy consumption data by energy type, state, and year.
 
 Table of Contents
 -----------------
